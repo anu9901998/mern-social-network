@@ -3,24 +3,10 @@
 
 
 
-A MERN stack social network application with MVP features implemented: user authentication, profile viewing, posting, commenting, and following/unfollowing.
+Features implemented: user authentication, profile viewing, posting, commenting, and following/unfollowing.
 
 
 
-
-
-## User Stories
-
-- [x] As a user, I want to be able to create an account so that I can log in.
-- [x] As a user, I want to be able to log in so that I can view my home feed.
-- [x] As a user, I want to be able to view posts so that I know what people I’m following are up to.
-- [x] As a user, I want to be able to create a post so that I can share my current status.
-- [x] As a user, I want to be able to delete my posts so that people can no longer see them.
-- [x] As a user, I want to be able to edit my posts so that I can correct or clarify my thoughts.
-- [x] As a user, I want to be able to like/unlike a post so that I can approve posts I am fond of.
-- [x] As a user, I want to be able to comment on a post so that I can share additional thoughts.
-- [x] As a user, I want to be able to view other users' profiles so that I can learn more about them.
-- [x] As a user, I want to be able to edit my own profile (i.e. change name, avatar color, or bio) so that I can add more style to my page.
 
 ### Potential improvements:
 
@@ -31,7 +17,7 @@ A MERN stack social network application with MVP features implemented: user auth
 - Improve code organization
 - Write more tests
 
-## Setup instructions (tested on macOS 10.15 Catalina)
+## Setup instructions 
 
 First install the dependencies:
 
